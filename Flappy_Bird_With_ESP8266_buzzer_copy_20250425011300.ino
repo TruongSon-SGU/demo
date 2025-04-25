@@ -192,4 +192,5 @@ void resetGame() {
   generateWalls();
   gameOverDisplayed = false; // Đặt lại biến khi bắt đầu trò chơi mới
   canRestart = false; // Đảm bảo restart không được kích hoạt ngay sau khi reset
+  //test thoy nha dung de y 
 }
